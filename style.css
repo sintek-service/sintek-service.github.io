@@ -140,7 +140,7 @@ img:nth-child(2){
     }
 
     img{
-        width: 58vw;
+        width: 70vw;
     }
     body{
         flex-direction: column-reverse;
